@@ -272,3 +272,14 @@ env = WLR_RENDERER_ALLOW_SOFTWARE,1
 #### 📹 Youtube videos (Click to view and watch the playlist) 📹
 
 [![Youtube Playlist Thumbnail](https://raw.githubusercontent.com/LinuxBeginnings/screenshots/main/Youtube.png)](https://youtube.com/playlist?list=PLDtGd5Fw5_GjXCznR0BzCJJDIQSZJRbxx&si=iaNjLulFdsZ6AV-t)
+---
+
+## 🤖 Pullfrog AI Review
+
+This repository uses **Pullfrog AI** to automatically review pull requests.
+
+Pullfrog is an AI-powered code review agent that analyzes every PR for code quality,
+security issues, performance problems, and best practice violations. Reviews appear
+as inline PR comments and checks. Trigger manually by commenting `@pullfrog` on any PR.
+
+Powered by OpenRouter.
